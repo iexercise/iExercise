@@ -242,7 +242,7 @@
 				TargetAttributes = {
 					9BFB96651CF73A9100CCB485 = {
 						CreatedOnToolsVersion = 7.2.1;
-						DevelopmentTeam = XM65KFU6D6;
+						DevelopmentTeam = UFR9B68S2F;
 					};
 					9BFB967E1CF73A9200CCB485 = {
 						CreatedOnToolsVersion = 7.2.1;
@@ -502,6 +502,7 @@
 			baseConfigurationReference = 918A19A8F88ABE146049CA3D /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UFR9B68S2F;
 				INFOPLIST_FILE = "block-基本使用/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lpj.block-----";
@@ -514,6 +515,7 @@
 			baseConfigurationReference = E2684363F5F16012A56F6350 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = UFR9B68S2F;
 				INFOPLIST_FILE = "block-基本使用/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.lpj.block-----";
